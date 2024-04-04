@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\igors\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\EmptyNetCoreProj\\EmptyCorProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9560D85-D212-4812-A7D4-DA821788CFAB}|EmptyCorProj\\EmptyCorProj.csproj|c:\\users\\igors\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\emptynetcoreproj\\emptycorproj\\emptycorproj\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9560D85-D212-4812-A7D4-DA821788CFAB}|EmptyCorProj\\EmptyCorProj.csproj|solutionrelative:emptycorproj\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9560D85-D212-4812-A7D4-DA821788CFAB}|EmptyCorProj\\EmptyCorProj.csproj|c:\\users\\igors\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\emptynetcoreproj\\emptycorproj\\emptycorproj\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9560D85-D212-4812-A7D4-DA821788CFAB}|EmptyCorProj\\EmptyCorProj.csproj|solutionrelative:emptycorproj\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 279,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\igors\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\EmptyNetCoreProj\\EmptyCorProj\\EmptyCorProj\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "EmptyCorProj\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\igors\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\EmptyNetCoreProj\\EmptyCorProj\\EmptyCorProj\\MainWindow.xaml",
+              "RelativeToolTip": "EmptyCorProj\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-04T13:15:28.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\igors\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\EmptyNetCoreProj\\EmptyCorProj\\EmptyCorProj\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EmptyCorProj\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\igors\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\EmptyNetCoreProj\\EmptyCorProj\\EmptyCorProj\\MainWindow.xaml.cs",
+              "RelativeToolTip": "EmptyCorProj\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T13:15:26.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
